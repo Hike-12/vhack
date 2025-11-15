@@ -13,7 +13,7 @@
   "type": "commonjs",
   "dependencies": {
     "@octokit/rest": "^19.0.13",
-    "cloudinary": "^2.6.1",
+    "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
